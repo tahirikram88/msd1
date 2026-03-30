@@ -1,0 +1,4 @@
+source_svm,source_volume,dest_svm,dest_volume,relationship_id
+svm-eng,vol-home,svm-aws,vol-home,rel-001
+svm-eng,vol-build,svm-aws,vol-build,rel-002
+svm-prod,vol-design,svm-aws,vol-design,rel-003
