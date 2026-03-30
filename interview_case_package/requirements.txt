@@ -1,1 +1,4 @@
-boto3>=1.26.0
+boto3
+botocore
+pytest
+flake8
